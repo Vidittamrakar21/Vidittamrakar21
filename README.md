@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi 👋, I'm Vidit Tamrakar
 
 
 
-### <div align="center">I'm Vidit,  aspiring frontend developer 👨‍💻   from India who loves  learning new programming languages and technologies. I’m highly motivated and  extremely passionate about developing 🚀</div>  
+### <div align="center"> Aspiring frontend developer 👨‍💻   from India who loves  learning new programming languages and technologies. I’m highly motivated and  extremely passionate about developing 🚀</div>  
   
 
 - 🔭 I’m currently pursuing B.Tech in Computer Science and Engineering from JUET   Guna, Madhya Pradesh.  

@@ -1,5 +1,5 @@
  <p align="center">
-	<h1 align ="center"> Vidit Tamrakar </h1>
+	<h1 align="center">नमस्ते 🙏 </h1>
 </p>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Hi,+I'm+Vidit+Tamrakar.;Open-Source+Enthusiast;Frontend+Developer;&center=true"></a> </p
@@ -60,13 +60,13 @@
 
 
 ## Github Stats  
-<p align="left">
+<p align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vidittamrakar21&show_icons=true&theme=gotham&count_private=true"> 
- <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidittamrakar21&theme=gotham" />
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidittamrakar21&layout=compact&theme=gotham&custom_title=Languages" /> 
 </p>
 <p align="left">
-   <p align="left">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidittamrakar21&layout=compact&theme=gotham&custom_title=Languages" /> 
+   <p align="center">
+ <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidittamrakar21&theme=gotham" />
  <br>
 
   

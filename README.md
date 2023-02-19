@@ -54,16 +54,20 @@
 </a>  
 </div>  
   
+  
 
 <br/>  
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Vidittamrakar21&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidittamrakar21&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
+<p align="left">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vidittamrakar21&show_icons=true&theme=gotham&count_private=true"> 
+ <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidittamrakar21&theme=gotham" />
+</p>
+<p align="left">
+   <p align="left">
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidittamrakar21&layout=compact&theme=gotham&custom_title=Languages" /> 
+ <br>
 
   
 

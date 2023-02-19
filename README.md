@@ -1,7 +1,8 @@
-# Hi 👋, I'm Vidit Tamrakar
+ <p align="center">
+	<h1 align ="center"> Vidit Tamrakar </h1>
+</p>
 
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Hi,+I'm+Vidit+Tamrakar.;Open-Source+Enthusiast;Aspiring+Frontend+Developer;&center=true"></a> </p
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Hi,+I'm+Vidit+Tamrakar.;Open-Source+Enthusiast;Frontend+Developer;&center=true"></a> </p
 
 
 

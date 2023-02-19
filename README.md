@@ -1,6 +1,9 @@
 # Hi 👋, I'm Vidit Tamrakar
 
 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Hi,+I'm+Vidit+Tamrakar.;Open-Source+Enthusiast;Aspiring+Frontend+Developer;&center=true"></a> </p
+
+
 
 ### <div align="center"> Aspiring frontend developer 👨‍💻   from India who loves  learning new programming languages and technologies. I’m highly motivated and  extremely passionate about developing 🚀</div>  
   

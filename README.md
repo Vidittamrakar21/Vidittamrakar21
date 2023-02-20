@@ -1,10 +1,4 @@
- <p align="center">
-	<h1 align="center">नमस्ते 🙏 </h1>
-</p>
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Hi,+I'm+Vidit+Tamrakar.;Open-Source+Enthusiast;Frontend+Developer;&center=true"></a> </p
-
-
+<h1 align="center">Hi , I'm Vidit Tamrakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### <div align="center"> Aspiring frontend developer 👨‍💻   from India who loves  learning new programming languages and technologies. I’m highly motivated and  extremely passionate about developing 🚀</div>  
   

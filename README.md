@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Vidit Tamrakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### <div align="center"> Aspiring frontend developer 👨‍💻   from India who loves  learning new programming languages and technologies. I’m highly motivated and  extremely passionate about developing 🚀</div>  
+### <div align="center"> Aspiring frontend developer 👨‍💻   from India who loves  learning new programming languages and technologies. I’m highly motivated and  extremely passionate about Open Source and development 🚀</div>  
   
 
 - 🔭 I’m currently pursuing B.Tech in Computer Science and Engineering from JUET   Guna, Madhya Pradesh.  

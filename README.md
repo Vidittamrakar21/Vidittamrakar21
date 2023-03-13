@@ -71,8 +71,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vidittamrakar21&show_icons=true&theme=dark&locale=en&layout=compact" alt="vidit" /></td>
   </tr>
 </table>
-    
-
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidittamrakar21&theme=dark" alt="vidit" /></p>
 <br/>  
 
   

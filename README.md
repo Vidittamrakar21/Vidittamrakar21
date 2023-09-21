@@ -1,5 +1,3 @@
-  <img src=""C:\Users\HOME\Downloads\updatebanner vidit - Presentation (1).png""  />
-
 <h1 align="center">Hi , I'm Vidit Tamrakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### <div align="center"> Web application developer 👨‍💻   from India who loves  learning new programming languages and technologies. I’m highly motivated and  extremely passionate about Open Source and development 🚀</div>  

@@ -81,7 +81,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vidittamrakar21/Vidittamrakar21/output/snake.svg" alt="Snake animation" />
+
 
 ###
 

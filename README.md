@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Vidit Tamrakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <img src="https://media.licdn.com/dms/image/D4D16AQH-OsV6KhRAeg/profile-displaybackgroundimage-shrink_350_1400/0/1695314075205?e=1712188800&v=beta&t=BB2Z4fsj6uhzBVEiwDgiycj1tyPxBo0MD2W63DCWEhw" height="180" width = 100% alt="building web these days !"  />
 
-### <div align="center"> Web application developer 👨‍💻   from India who loves  learning new programming languages and technologies. I’m highly motivated and  extremely passionate about Open Source and development 🚀</div>  
+
+### <div align="center"> Full Stack Web Developer 👨‍💻   from India , proficient in crafting web applications end to end using the MERN Stack, Typescript,Graphql, Next.js etc , Passionate about exploring DevOps and cloud technologies.🚀</div>  
   
 <br clear="both">
 
@@ -63,8 +65,12 @@
  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/>  
  <img width="12" /> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
- <img width="12" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>  
+ <img width="12" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/> 
+   <img width="12" /> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
+   <img width="12" /> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
 
 </div>
 

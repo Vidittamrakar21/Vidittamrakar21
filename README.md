@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Vidit Tamrakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <img src="https://media.licdn.com/dms/image/D4D16AQH-OsV6KhRAeg/profile-displaybackgroundimage-shrink_350_1400/0/1695314075205?e=1712188800&v=beta&t=BB2Z4fsj6uhzBVEiwDgiycj1tyPxBo0MD2W63DCWEhw" height="180" width = 100% alt="building web these days !"  />
+  <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH-OsV6KhRAeg/profile-displaybackgroundimage-shrink_350_1400/0/1695314075205?e=1712188800&v=beta&t=BB2Z4fsj6uhzBVEiwDgiycj1tyPxBo0MD2W63DCWEhw" height="150" width = 80% alt="building web these days !"  /></div>  
 
 
 ### <div align="center"> Full Stack Web Developer 👨‍💻   from India , proficient in crafting web applications end to end using the MERN Stack, Typescript,Graphql, Next.js etc , Passionate about exploring DevOps and cloud technologies.🚀</div>  

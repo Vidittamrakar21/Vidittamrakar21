@@ -18,10 +18,10 @@
 
 ###
 
-<img align="right" height="150" src="https://t3.ftcdn.net/jpg/02/24/60/00/360_F_224600069_W7lxO3jE7CZ5s3izuhIoK5uSrDUz9x6W.jpg"  />
+
 
 ###
-
+## My Tech Stack-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -76,7 +76,7 @@
 </div>
 
 ###
-
+## Contact Info -
 <div align="left">
   <a href="https://linkedin.com/in/vidit-tamrakar-877a58249" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />

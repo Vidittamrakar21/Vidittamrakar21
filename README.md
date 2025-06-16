@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Vidit Tamrakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
-I excel as a full-stack developer, proficient in frontend development, currently building @ScriptBox - An online browser based cloud IDE. 
+I excel as a full-stack developer, proficient in backend development, currently building @ScriptBox - An online browser based cloud IDE. 
 
 My tech stack includes -
 MERN stack - (React.js, Node.js, Express.js, and MongoDB) , React Native, Nextjs ,AWS, Javascript, Typescript, tailwind css

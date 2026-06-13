@@ -1,10 +1,6 @@
 <h1 align="center">Hi , I'm Vidit Tamrakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-A full-stack developer (frontend heavy) , Having 1+ year of experience in building scalable products from 0 to 100.
-I've worked on various freelancing projects and SAAS Products over the duration.
-
-My tech stack includes -
-MERN stack - (React.js, Node.js, Express.js, and MongoDB) , React Native ,AWS, Javascript, Typescript, Tailwind css ,Docker , Kubernetes, AWS, Microfrontends.
+Software Developer at Zenwork with experience in designing and building scalable, high-performance backend systems, microservices, and APIs using C#, .NET, Node.js, JavaScript, and TypeScript. Skilled in developing cloud-native applications and distributed systems leveraging AWS and Docker, with hands-on experience in observability and monitoring using Datadog. Additionally, I have extensively worked on frontend development with React and React Native, enabling me to contribute across the full software development lifecycle. Strong understanding of system design principles and software architecture, with a focus on building reliable, maintainable, and scalable solutions.
   
 
 
